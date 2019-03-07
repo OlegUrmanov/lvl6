@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding: 0;
+  word-break: break-all;
+}
+.wr{
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 20px;
+  position: relative;
+}
+.wr p{
+  margin-top: 20px;
+}
+.num{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #636363;
+  color: #f0f0f0;
+  padding: 3px 5px;
+}
+.like_btn.like .like_button_icon {
+  background-image: url(data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.or…5.58%2C8.58%2C4.7%2C7%2C4.7Z%22%20fill%3D%22%23828a99%22%2F%3E%3C%2Fsvg%3E);
+}
+a {
+  text-decoration: none;
+ }
